@@ -8,7 +8,7 @@ variable "ami" {
     default = null
   
 }
-variable "instance_type" {
+variable "instance" {
     type = string
     default = null
   
